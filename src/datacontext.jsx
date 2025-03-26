@@ -1,5 +1,5 @@
 import { createContext, useContext, useState, useEffect } from "react";
-import data from "../data"; // Import dessert data
+import data from "./data"; // Import dessert data
 
 // Create Context
 const DataContext = createContext();

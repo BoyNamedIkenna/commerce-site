@@ -4,7 +4,7 @@ export default[
         title:"Waffle",
         description:"Waffle with berries",
         price:6.50,
-        imageUrl:"./src/assets/images/image-waffle-desktop.jpg",
+        imageUrl:"./assets/images/image-waffle-desktop.jpg",
         selected:false,
         quantity:0
     },
@@ -13,7 +13,7 @@ export default[
         title:"Creme Brulee",
         description:"Vanilla Bean Creme Brulee",
         price:7.00,
-        imageUrl:"./src/assets/images/image-creme-brulee-desktop.jpg",
+        imageUrl:"./assets/images/image-creme-brulee-desktop.jpg",
         selected:false,
         quantity:0
     },
@@ -22,7 +22,7 @@ export default[
         title:"Macaron",
         description:"Macaron Mix of Five",
         price:8.00,
-        imageUrl:"./src/assets/images/image-macaron-desktop.jpg",
+        imageUrl:"./assets/images/image-macaron-desktop.jpg",
         selected:false,
         quantity:0
     },
@@ -31,7 +31,7 @@ export default[
         title:"Tiramisu",
         description:"Classic Tiramisu",
         price:5.50,
-        imageUrl:"./src/assets/images/image-tiramisu-desktop.jpg",
+        imageUrl:"./assets/images/image-tiramisu-desktop.jpg",
         selected:false,
         quantity:0
     },
@@ -40,7 +40,7 @@ export default[
         title:"Baklava",
         description:"Pistachio Baklava",
         price:4.00,
-        imageUrl:"./src/assets/images/image-baklava-desktop.jpg",
+        imageUrl:"./assets/images/image-baklava-desktop.jpg",
         selected:false,
         quantity:0
     },
@@ -49,7 +49,7 @@ export default[
         title:"Pie",
         description:"Lemon Meringue Pie",
         price:5.00,
-        imageUrl:"./src/assets/images/image-meringue-desktop.jpg",
+        imageUrl:"./assets/images/image-meringue-desktop.jpg",
         selected:false,
         quantity:0
     },
@@ -58,7 +58,7 @@ export default[
         title:"Cake",
         description:"Red Velvet Cake",
         price:4.50,
-        imageUrl:"./src/assets/images/image-cake-desktop.jpg",
+        imageUrl:"./assets/images/image-cake-desktop.jpg",
         selected:false,
         quantity:0
     },
@@ -67,7 +67,7 @@ export default[
         title:"Brownie",
         description:"Salted Caramel Brownie",
         price:5.50,
-        imageUrl:"./src/assets/images/image-waffle-desktop.jpg",
+        imageUrl:"./assets/images/image-waffle-desktop.jpg",
         selected:false,
         quantity:0
     },
@@ -76,7 +76,7 @@ export default[
         title:"Panna Cotta",
         description:"Vanilla Pana Cotta",
         price:6.50,
-        imageUrl:"./src/assets/images/image-panna-cotta-desktop.jpg",
+        imageUrl:"./assets/images/image-panna-cotta-desktop.jpg",
         selected:false,
         quantity:0
     }
