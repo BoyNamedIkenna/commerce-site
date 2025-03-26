@@ -4,7 +4,7 @@ export default[
         title:"Waffle",
         description:"Waffle with berries",
         price:6.50,
-        imageUrl:"/assets/images/image-waffle-desktop.jpg",
+        imageUrl:"/images/image-waffle-desktop.jpg",
         selected:false,
         quantity:0
     },
